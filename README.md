@@ -1,2 +1,0 @@
-# table
-my school project
